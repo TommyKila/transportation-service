@@ -131,6 +131,7 @@ button:hover {
     .main {
         flex-direction: column;
         width: 90%;
+        margin: 6em 0;
     }
     .column-1,
     .column-2,
