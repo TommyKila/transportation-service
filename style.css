@@ -78,6 +78,7 @@ button {
     border-radius: 2.5em;
     border: none;
     margin: 5.5em 0 3em 0;
+    transition: 0.3s;
 }
 
 .button-1 {
